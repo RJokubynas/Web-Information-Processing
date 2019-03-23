@@ -1,0 +1,38 @@
+.eBook_MetaData {
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  width: 100%;
+  justify-content: center;
+}
+
+.eBook_MetaData th {
+  background-color: gray;
+  border: 5px;
+  border-color: black;
+  border-style: solid;
+  justify-content: center;
+}
+.eBook_MetaData td {
+  background-color: #F0F0F0;
+  align-items: center;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+body {
+  background-color: #d3d3d3;
+}
+
+.flex-container {
+  display: flex;
+  background-color: black;
+  justify-content: center;
+}
+
+.flex-container > div {
+  background-color: #d3d3d3;
+  margin: 12px;
+  padding: 10px;
+}
